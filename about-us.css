@@ -1,0 +1,42 @@
+.page-header{
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 0 !important;
+}
+.p-0{
+    padding: 0 !important;
+}
+.page-header-inner{
+    background: rgb(0 0 0 / 45%);
+}
+.py-5 {
+    padding-top: 3rem !important;
+    padding-bottom: 3rem !important;
+}
+.text-center {
+    text-align: center !important;
+}
+.text-center {
+    text-align: center !important;
+}
+.mb-3 {
+    margin-bottom: 1rem !important;
+    font-weight: 700 !important;
+}
+.breadcrumb-color{
+    color: #ce8339 !important;
+    text-decoration: none !important;
+}
+
+
+
+
+
+
+
+@media only screen and (max-device-width: 466px){
+    .page-header{
+        width: 467px !important;
+    }
+}
